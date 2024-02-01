@@ -61,9 +61,9 @@ export const About = () => {
                     </svg>
 
                 </h1>
-                <h3 className="home__subtitle">FullStack Developer</h3>
+                <h3 className="home__subtitle">Web Developer</h3>
                 <p className="home__description">
-                    I am a full-stack developer currently working blablabla
+                    I am a Fullstack Web Developer with a background in Computer Science and hands-on experience in building full-stack web applications.
                 </p>
 
                 <a href="#contact" className="button button-flex">

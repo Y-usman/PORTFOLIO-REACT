@@ -2,6 +2,7 @@ import React from "react";
 import "./home.css";
 import Contact from "./Contact";
 import About from "./About";
+import ScrollDown from "./ScrollDown";
 
 export const Home = () => {
     return (
@@ -15,6 +16,8 @@ export const Home = () => {
                         
                         <About />
                     </div>
+
+                    <ScrollDown />
                 </div>
             </section>
         </>
