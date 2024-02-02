@@ -23,9 +23,8 @@ Run the "npm start" command.
 ## License
 This project is licensed under the MIT License.
 
-## Technologies Used
 
-# Web Development Technologies
+## Web Development Technologies
 
 Explore the documentation for key web development technologies:
 
