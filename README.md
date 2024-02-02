@@ -23,6 +23,11 @@ Run the "npm start" command.
 ## License
 This project is licensed under the MIT License.
 
+## Technologies Used
+
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
 ## Contributing
 None
 
